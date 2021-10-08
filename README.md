@@ -1,9 +1,9 @@
 ## Moin 👋
-I'm a graduate student specializing in Data Science and Machine Learning! Feel free to check out my...
+I'm a graduate student specializing in Data Science and Machine Learning! Feel free to check out...
 
-- [LinkedIn](https://www.linkedin.com/in/moritzwilksch)
-- [Personal Website](https://moritzwilksch.github.io)
-- Stuff I've been working on ⬇️
+- My [LinkedIn](https://www.linkedin.com/in/moritzwilksch)
+- My [Personal Website](https://moritzwilksch.github.io)
+- The stuff I've been working on ⬇️
 
 
 <!--
