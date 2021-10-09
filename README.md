@@ -1,9 +1,9 @@
-## Moin 👋
+## Moin! I'm Moritz 👋
 I'm a graduate student specializing in Data Science and Machine Learning! Feel free to check out...
 
-- My [LinkedIn](https://www.linkedin.com/in/moritzwilksch)
-- My [Personal Website](https://moritzwilksch.github.io)
-- The stuff I've been working on ⬇️
+- 🔎 my [LinkedIn](https://www.linkedin.com/in/moritzwilksch)
+- 💻 my [Personal Website](https://moritzwilksch.github.io)
+- ☕ the stuff I've been working on ⬇️
 
 
 <!--
