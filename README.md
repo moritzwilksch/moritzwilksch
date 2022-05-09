@@ -4,6 +4,7 @@ I'm a graduate student specializing in Data Science and Machine Learning! Feel f
 - 🔎 my [LinkedIn](https://www.linkedin.com/in/moritzwilksch)
 - 💻 my [Personal Website](https://moritzwilksch.github.io)
 - 🎓 my [first publication](https://aisel.aisnet.org/wi2022/student_track/student_track/38/)
+- 📁 my [portfolio](https://moritzwilksch.github.io/portfolio/)
 - ✏️ my [Master Thesis](https://github.com/moritzwilksch/MasterThesis) (very much a WIP!)
 - ☕ the stuff I've been working on ⬇️
 
