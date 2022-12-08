@@ -1,9 +1,8 @@
 ## Moin! I'm Moritz 👋
 I'm a graduate student specializing in Data Science and Machine Learning! 
 
-|Feel free to check out...||
-|---|---|
-|<ul><li>🔎 my [LinkedIn](https://www.linkedin.com/in/moritzwilksch)</li><li> 💻 my [Personal Website](https://moritzwilksch.github.io)</li><li>🎓 my [first publication](https://aisel.aisnet.org/wi2022/student_track/student_track/38/)</li><li>📁 my [portfolio](https://moritzwilksch.github.io/portfolio/)</li><li>✏️ my [Master Thesis](https://github.com/moritzwilksch/MasterThesis)</li><li>☕ the stuff I've been working on ⬇️ </li></ul>| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moritzwilksch&count_private=true&show_icons=true) |
+Feel free to check out...
+<ul><li>🔎 my [LinkedIn](https://www.linkedin.com/in/moritzwilksch)</li><li> 💻 my [Personal Website](https://moritzwilksch.github.io)</li><li>🎓 my [first publication](https://aisel.aisnet.org/wi2022/student_track/student_track/38/)</li><li>📁 my [portfolio](https://moritzwilksch.github.io/portfolio/)</li><li>✏️ my [Master Thesis](https://github.com/moritzwilksch/MasterThesis)</li><li>☕ the stuff I've been working on ⬇️ </li></ul>
 
 
 <!--
