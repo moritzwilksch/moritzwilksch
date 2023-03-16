@@ -1,5 +1,5 @@
 ## Moin! I'm Moritz 👋
-I'm a graduate student specializing in Data Science and Machine Learning! 
+Data Scientist interested in all things ML 👨🏼‍💻
 
 Feel free to check out...
 <ul>
